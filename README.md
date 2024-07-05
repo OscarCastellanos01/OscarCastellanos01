@@ -15,4 +15,6 @@ Soy un desarrollador apasionado por crear soluciones eficientes e innovadoras. Â
 - [Mis aplicaciones en Play Store](https://play.google.com/store/apps/developer?id=TruperMax&hl=es_419)
 - [Mis juegos en Itch.io](https://trupermax.itch.io/)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 Â¡Explora mis repositorios y no dudes en contactarme si quieres conectar o colaborar!
