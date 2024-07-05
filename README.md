@@ -3,15 +3,10 @@
 Soy un desarrollador apasionado por crear soluciones eficientes e innovadoras. ¡Bienvenido a mi perfil de GitHub!
 
 #### 📫 Cómo contactarme ...
-- Email: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tuperfil)
-- Twitter: [@TuUsuarioDeTwitter](https://twitter.com/TuUsuarioDeTwitter)
+- Email: [tu.email@ejemplo.com](mailto:trupermaxgames@gmail.com)
 
 #### 😄 Pronombres: ...
 - TruperMax
-
-#### 📊 Estadísticas de GitHub
-(https://github-readme-stats.vercel.app/api?username=OscarCastellanos01&show_icons=true&theme=radical)
 
 #### 🌐 Lenguajes y Herramientas
 - Laravel | React | Flutter | React Native | Python | JavaScript | PHP | MySQL | SQL Server | API | NextJS | NodeJS | C# | Game Maker | Godot | Angular
