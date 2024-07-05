@@ -1,16 +1,23 @@
-### Hi there 👋
+### ¡Hola! 👋 Soy Oscar Castellanos
 
-<!--
-**OscarCastellanos01/OscarCastellanos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por crear soluciones eficientes e innovadoras. ¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+#### 📫 Cómo contactarme ...
+- Email: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tuperfil)
+- Twitter: [@TuUsuarioDeTwitter](https://twitter.com/TuUsuarioDeTwitter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 😄 Pronombres: ...
+- TruperMax
+
+#### 📊 Estadísticas de GitHub
+(https://github-readme-stats.vercel.app/api?username=OscarCastellanos01&show_icons=true&theme=radical)
+
+#### 🌐 Lenguajes y Herramientas
+- Laravel | React | Flutter | React Native | Python | JavaScript | PHP | MySQL | SQL Server | API | NextJS | NodeJS | C# | Game Maker | Godot | Angular
+
+#### 🌟 Mis Aplicaciones y Juegos
+- [Mis aplicaciones en Play Store](https://play.google.com/store/apps/developer?id=TruperMax&hl=es_419)
+- [Mis juegos en Itch.io](https://trupermax.itch.io/)
+
+¡Explora mis repositorios y no dudes en contactarme si quieres conectar o colaborar!
