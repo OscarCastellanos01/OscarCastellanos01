@@ -3,7 +3,7 @@
 Soy un desarrollador apasionado por crear soluciones eficientes e innovadoras. ¡Bienvenido a mi perfil de GitHub!
 
 #### 📫 Cómo contactarme ...
-- Email: [tu.email@ejemplo.com](mailto:trupermaxgames@gmail.com)
+- Email: [trupermaxgames@gmail.com](mailto:trupermaxgames@gmail.com)
 
 #### 😄 Pronombres: ...
 - TruperMax
