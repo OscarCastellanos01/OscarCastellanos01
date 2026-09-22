@@ -74,7 +74,13 @@ Comparto tutoriales y el desarrollo de mis proyectos en mi canal, **TruperMax**.
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarCastellanos01&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=OscarCastellanos01&theme=tokyonight&hide_border=true"
+    alt="Racha de contribuciones"
+    width="65%"
+  />
+</p>
 
 </div>
 
